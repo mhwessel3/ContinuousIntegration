@@ -39,28 +39,8 @@ In the second terminal
 ```
 
 # Contributions
-## Anton
-* Created the function that clones the repository
-* Created a function that builds the code
-* Set up the server
-
-## Caroline
-* Pair programmed with the other members.
-* README updates
-* Initialized a dummy testcase.
-* Reviewed member's code.
-
-## Love
-* Created gitignore
-* Created runscript
-* Reviewed member's code
-* Created testcases
-
-## Morgan
-* README updates
-* Parsed payload
-* Connected the payload info to the report
-
-## Victor
-* Created the mail notification
-* Separated functionality of the classes.
+* Anton
+* Caroline
+* Love
+* Morgan
+* Victor
