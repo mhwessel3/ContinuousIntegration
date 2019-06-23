@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ci.TestNotification" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-02-08T10:55:51" hostname="morganwessel" time="3.281">
+  <properties/>
+  <testcase name="mailSentTrue" classname="ci.TestNotification" time="1.926"/>
+  <testcase name="mailSentFalse" classname="ci.TestNotification" time="1.354"/>
+  <system-out><![CDATA[Total Messages:- 195
+------------------------------
+Mail Subject:- -1001985780
+Total Messages:- 195
+------------------------------
+Mail Subject:- -1001985780
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
